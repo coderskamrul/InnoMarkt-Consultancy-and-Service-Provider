@@ -45,3 +45,10 @@ User Role Management:
 2.	Admin has access to all features, including product and user management, messaging, and payment information.
 #### Technology Stack:
 1.	Specify the JavaScript programming languages, NodeJS is a back-end, ReactJS frameworks, and MongoDB databases to be used for the development of the software.
+
+
+# Data Base:
+#### Database Collections
+ ![Github Banner](https://raw.githubusercontent.com/coderskamrul/Spin-Wheel/main/images/Database%2001.jpg)
+#### Collections Data
+ ![Github Banner](https://raw.githubusercontent.com/coderskamrul/Spin-Wheel/main/images/Database%2002.jpg)
